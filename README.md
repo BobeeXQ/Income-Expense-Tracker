@@ -8,3 +8,6 @@ Income Expense Tracker is a user based income-expense tracking system featuring 
 * Tailwind CSS
 * MongoDB
 * Mongoose
+
+## Credits
+This project is collabarated with [XIAOiwnl](https://github.com/XIAOiwnl).
